@@ -1,16 +1,9 @@
 # Rafeeq Mini learning progress · سجل تقدم رفيق المصغّر
 
-> Copy this safe template into the root of **your own** repository as
-> `LEARNING_PROGRESS.md`. Use only the assigned `learner_id` or your GitHub
-> username—never a real name, email, phone number, or private link.
->
-> انسخ هذا القالب الآمن إلى جذر **مستودعك أنت** باسم
-> `LEARNING_PROGRESS.md`. استخدم `learner_id` المخصص أو اسم مستخدم GitHub فقط،
-> ولا تضع اسمًا حقيقيًا أو بريدًا أو رقم هاتف أو رابطًا خاصًا.
 
 | Field · الحقل | Value · القيمة |
 |---|---|
-| Public learner ID · المعرّف العام | `[learner_id or GitHub username]` |
+| Public learner ID · المعرّف العام | `Danah Almutairi` |
 | Course · الدورة | Advanced Agentic AI Systems Engineering · هندسة أنظمة الذكاء الاصطناعي التوكيلي المتقدمة |
 | Project · المشروع | Rafeeq Mini · رفيق المصغّر |
 
