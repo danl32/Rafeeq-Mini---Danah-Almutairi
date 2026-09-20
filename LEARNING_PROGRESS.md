@@ -15,13 +15,3 @@
 | Day 1 / `C9_DAY1_GATE` · اليوم الأول | `PENDING` | Keep generated evidence in the saved Drive notebook. · احتفظ بالدليل الناتج داخل دفتر Drive المحفوظ. |
 | Day 2 / `C20_DAY2_GATE` · اليوم الثاني | `PENDING` | Keep generated evidence in the saved Drive notebook. · احتفظ بالدليل الناتج داخل دفتر Drive المحفوظ. |
 | Day 3 / `C29_EXPORT_SAFETY_CHECK` · اليوم الثالث | `PENDING` | Upload only after `FINAL_EXPORT_CREATED`. · لا ترفع إلا بعد ظهور `FINAL_EXPORT_CREATED`. |
-
-## Safe-update rule · قاعدة التحديث الآمن
-
-Before C29, edit only the status in this file. Do **not** upload source code,
-the live notebook, raw outputs, traces, temporary checkpoints, credentials,
-private links, personal data, or ZIP files.
-
-قبل C29 عدّل الحالة داخل هذا الملف فقط. لا ترفع الكود أو الدفتر الجاري أو
-المخرجات الخام أو التتبعات أو نقاط الحفظ المؤقتة أو بيانات الدخول أو الروابط
-الخاصة أو البيانات الشخصية أو ملفات ZIP.
